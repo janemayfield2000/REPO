@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 
 
-Sitemap: https://YOUR-CLOUD-URL/sitemap.xml
+Sitemap: https://janemayfield2000.github.io/mysite/sitemap.xml
