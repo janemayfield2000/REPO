@@ -3,8 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>ListingBott Review: Is Automated Directory Submission Worth It for Founders?</title>
-  <meta name="description" content="An honest look at ListingBott's automated directory submission service — how it works, what it delivers, and whether it's worth it for founders.">
+
   <meta name="robots" content="index,follow">
   <link rel="canonical" href="FINAL-PUBLISHED-URL-HERE">
   <style>
